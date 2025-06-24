@@ -7,8 +7,7 @@ function tes(){
     console.log(tes1)
 
     let tes2 = 2
-    console.log(tes2)
-    
+
     tes2 = 3
     console.log(tes2)
 }
