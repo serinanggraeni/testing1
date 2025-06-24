@@ -10,6 +10,7 @@ function tes(){
 
     tes2 = 3
     console.log(tes2)
+    let tes=3
 }
 
 tes()
